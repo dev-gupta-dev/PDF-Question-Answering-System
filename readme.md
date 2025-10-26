@@ -133,5 +133,3 @@ This project is open-source and available under the MIT License.
 
 
 ---
-
-Would you like me to create the requirements.txt and pdf_qa.py files’ final versions too (so you can upload directly to GitHub)?
